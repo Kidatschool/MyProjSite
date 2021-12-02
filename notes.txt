@@ -1,0 +1,14 @@
+  LINKS
+==========
+https://sweetcode.io/routing-all-traffic-through-a-vpn-gateway-on-linux/
+https://stackoverflow.com/questions/24287522/how-to-embed-android-emulator-in-html-page
+https://stackoverflow.com/questions/34847231/how-to-save-progress-in-an-html-game/34847739
+
+  NOTES
+==========
+route connection through vpn when school ip connects 
+andriod emulator
+vnc -> emulator -> site
+save progross via local storage
+data logger
+if site gets blocked redirect to new site
